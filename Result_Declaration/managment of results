@@ -1,0 +1,11 @@
+Description :-
+This project aims to build a Class Result Management System using Python. The system will allow teachers or administrators to input, calculate, and display student results. 
+It will handle multiple students and subjects, compute total marks, percentage, and grade,
+and then generate a summary report for each student.
+
+Features :-
+Input student details (name, roll number, etc.) and subject-wise marks.
+Calculate total marks, percentage, and grade based on predefined criteria.
+Sort and display students by marks or roll number.
+Generate a detailed report for each student, including subject-wise marks, total score, and final grade.
+Option to export results as a text file or CSV.
